@@ -6,6 +6,6 @@ Veri Yapıları ve Algoritmalar konusu ikinci proje
 
 > ## Cevap 1
 ```
-![](merge_sort.jpg)
+![merge_sort.jpg](merge_sort.jpg)
 
 ```
