@@ -1,2 +1,3 @@
 # Merge-Sort-Projesi
-Veri Yapıları ve Algoritmalar_Merge Sort
+Veri Yapıları ve Algoritmalar konusu ikinci proje
+
