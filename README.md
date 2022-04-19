@@ -8,3 +8,9 @@ Veri Yapıları ve Algoritmalar konusu ikinci proje
 
 ![](merge_sort.jpg)
 
+> ## Soru 2
+Big-O gösterimini yazınız.
+
+> ## Cevap 2
+
+![](big-o.jpg)
